@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Learning</string>
+    <string name="welcome">Welcome</string>
+    <string name="butCalc">Calculator</string>
+    <string name="btnSum">Find Sum</string>
+</resources>
